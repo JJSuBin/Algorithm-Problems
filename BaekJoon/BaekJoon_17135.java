@@ -1,5 +1,3 @@
-package HardCore;
-
 import java.util.*;
 
 class Point_17135{
