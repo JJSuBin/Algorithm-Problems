@@ -18,3 +18,4 @@
 
   - [구슬 탈출2](https://www.acmicpc.net/problem/13460) ➰
   - [뱀](https://www.acmicpc.net/problem/3190) ✔️
+  - [2048(Easy)](https://www.acmicpc.net/problem/12100) ➰
