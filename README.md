@@ -17,3 +17,4 @@
 ## Samsung-Problem 문제 리스트
 
   - [구슬 탈출2](https://www.acmicpc.net/problem/13460) ➰
+  - [뱀](https://www.acmicpc.net/problem/3190) ✔️
